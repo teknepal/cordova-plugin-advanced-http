@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-advanced-http",
+  "name": "cordova-plugin-advanced-http-avangrid",
   "version": "2.4.1",
   "description": "Cordova / Phonegap plugin for communicating with HTTP servers using SSL pinning",
   "scripts": {
@@ -15,7 +15,7 @@
     "release": "npm run test && ./scripts/release.sh"
   },
   "cordova": {
-    "id": "cordova-plugin-advanced-http",
+    "id": "cordova-plugin-advanced-http-avangrid",
     "platforms": [
       "ios",
       "android"
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silkimen/cordova-plugin-advanced-http.git"
+    "url": "git+https://github.com/teknepal/cordova-plugin-advanced-http.git"
   },
   "keywords": [
     "cordova",
@@ -54,9 +54,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/silkimen/cordova-plugin-advanced-http/issues"
+    "url": "https://github.com/teknepal/cordova-plugin-advanced-http/issues"
   },
-  "homepage": "https://github.com/silkimen/cordova-plugin-advanced-http#readme",
+  "homepage": "https://github.com/teknepal/cordova-plugin-advanced-http#readme",
   "devDependencies": {
     "chai": "4.1.2",
     "chai-as-promised": "7.1.1",
